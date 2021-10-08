@@ -1,0 +1,7 @@
+[user]
+	email = sergio.tomeo1@educa.madrid.org
+	name = Sergio T. S.
+[core]
+	editor = nano
+[credential]
+	helper = store
