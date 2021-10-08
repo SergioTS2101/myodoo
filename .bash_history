@@ -34,3 +34,34 @@ cd /dammie
 cd dammie/
 pwd /home/dammie
 exit
+whoami
+ls -a
+git config --global credential.helper store
+more .gitconfig
+cd ..
+git config --global credential.helper store
+nano .gitignore
+ls
+cd /opt/odoo
+git config --global credential.helper store
+nano .gitignore
+git status
+git add
+git add .
+git log
+pwd /opt/odoo
+ls
+git push origin master
+ls
+git status
+git log
+git add .
+git commit -am "Commit bacano"
+git log
+pwd /opt/odoo
+ls
+git status
+git log
+git push origin master
+pwd /home/dammie
+exit

@@ -4,4 +4,4 @@
 [core]
 	editor = nano
 [credential]
-	helper = store
+	helper = stoore
